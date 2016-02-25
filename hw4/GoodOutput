@@ -1,0 +1,20 @@
+Script started on Thu 25 Feb 2016 02:27:38 PM CST
+]0;sra0004@sra0004-VirtualBox: ~/CS390/hw4sra0004@sra0004-VirtualBox:~/CS390/hw4$ exitawk -f Avrgscr.awk BadData[K[K[K[K[K[K[KGoodData
+---------------------
+Individual Grades:
+---------------------
+John 85.1 B
+Jane 84.1 B
+George 87.7 B+
+Cindy 87.8 B+
+---------------------
+ Class Averages: 
+---------------------
+Number of students = 4
+Class quiz average 75.25 C
+Class homework average 85.25 B
+Class exam average 80.25 B
+Class final average 95 A
+Class average 86.175 A
+]0;sra0004@sra0004-VirtualBox: ~/CS390/hw4sra0004@sra0004-VirtualBox:~/CS390/hw4$ exit
+Script done on Thu 25 Feb 2016 02:27:49 PM CST

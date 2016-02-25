@@ -1,0 +1,23 @@
+Script started on Mon 18 Jan 2016 09:01:01 PM CST
+]0;sra0004@sra0004-VirtualBox: ~/CS390/hw1sra0004@sra0004-VirtualBox:~/CS390/hw1$ ls -R /home/sra0004/CS3 90
+/home/sra0004/CS390:
+[0m[01;34mhw1[0m
+
+/home/sra0004/CS390/hw1:
+date.txt  hw1.ttx  hw1.txt  info.txt  me.txt  system.txt
+]0;sra0004@sra0004-VirtualBox: ~/CS390/hw1sra0004@sra0004-VirtualBox:~/CS390/hw1$ ls -a
+[0m[01;34m.[0m   date.txt  hw1.txt   me.txt
+[01;34m..[0m  hw1.ttx   info.txt  system.txt
+]0;sra0004@sra0004-VirtualBox: ~/CS390/hw1sra0004@sra0004-VirtualBox:~/CS390/hw1$ cat me.txt date.txt sys tem.txt >info.txt
+]0;sra0004@sra0004-VirtualBox: ~/CS390/hw1sra0004@sra0004-VirtualBox:~/CS390/hw1$ cat info.txt
+Steven Anderson
+2016-01-18 20:38:32
+Linux sra0004-VirtualBox 3.19.0-25-generic #26~14.04.1-Ubuntu SMP Fri Jul 24 21:16:20 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux
+]0;sra0004@sra0004-VirtualBox: ~/CS390/hw1sra0004@sra0004-VirtualBox:~/CS390/hw1$ head - 2[K[K[K2[K-2 info.txt
+Steven Anderson
+2016-01-18 20:38:32
+]0;sra0004@sra0004-VirtualBox: ~/CS390/hw1sra0004@sra0004-VirtualBox:~/CS390/hw1$ tail -2 info.txt
+2016-01-18 20:38:32
+Linux sra0004-VirtualBox 3.19.0-25-generic #26~14.04.1-Ubuntu SMP Fri Jul 24 21:16:20 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux
+]0;sra0004@sra0004-VirtualBox: ~/CS390/hw1sra0004@sra0004-VirtualBox:~/CS390/hw1$ exit
+Script done on Mon 18 Jan 2016 09:02:52 PM CST

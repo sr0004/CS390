@@ -1,0 +1,15 @@
+Script started on Thu 25 Feb 2016 02:27:22 PM CST
+]0;sra0004@sra0004-VirtualBox: ~/CS390/hw4sra0004@sra0004-VirtualBox:~/CS390/hw4$ exitawk -f Avrgscr.awk BadData
+---------------------
+Individual Grades:
+---------------------
+John Homework not found b found instead.
+Jane 84.1 B
+George Score not within 0-100
+Cindy missing a grade
+---------------------
+ Class Averages: 
+---------------------
+Class average not calculated due to errors!
+]0;sra0004@sra0004-VirtualBox: ~/CS390/hw4sra0004@sra0004-VirtualBox:~/CS390/hw4$ exit
+Script done on Thu 25 Feb 2016 02:27:29 PM CST

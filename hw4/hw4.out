@@ -1,0 +1,34 @@
+Script started on Thu 25 Feb 2016 02:26:28 PM CST
+]0;sra0004@sra0004-VirtualBox: ~/CS390/hw4sra0004@sra0004-VirtualBox:~/CS390/hw4$ awk -f Avrgscr.awk GoodDaat[K[Kta
+---------------------
+Individual Grades:
+---------------------
+John 85.1 B
+Jane 84.1 B
+George 87.7 B+
+Cindy 87.8 B+
+---------------------
+ Class Averages: 
+---------------------
+Number of students = 4
+Class quiz average 75.25 C
+Class homework average 85.25 B
+Class exam average 80.25 B
+Class final average 95 A
+Class average 86.175 A
+]0;sra0004@sra0004-VirtualBox: ~/CS390/hw4sra0004@sra0004-VirtualBox:~/CS390/hw4$ awk -f Avrgscr.awk GoodData[K[K[K[K[K[K[K[KBadData
+---------------------
+Individual Grades:
+---------------------
+John Homework not found b found instead.
+Jane 84.1 B
+George Score not within 0-100
+Cindy missing a grade
+---------------------
+ Class Averages: 
+---------------------
+Class average not calculated due to errors!
+]0;sra0004@sra0004-VirtualBox: ~/CS390/hw4sra0004@sra0004-VirtualBox:~/CS390/hw4$ exit
+exit
+
+Script done on Thu 25 Feb 2016 02:27:05 PM CST
