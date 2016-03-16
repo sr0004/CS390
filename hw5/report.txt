@@ -1,7 +1,4 @@
-		Class Grade Report
-******************************************************
-Name/Quiz/Homework/Midterm/Final/Score/Grade
-Jones 98 100 84 78 90 A-
-George 90 80 70 90 82 B-
-Steven 50 60 70 80 67 D+
-Joey 90 90 90 58 80.4 B-
+     Student Grade Report
+**********************************
+Name/Quiz/Homework/Midterm/Final/score/grade
+Goat 10 10 20 20 15 F

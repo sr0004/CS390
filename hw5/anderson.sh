@@ -2,7 +2,12 @@
 #Author: Steven Anderson
 #Class CS390 HW5
 alter=0      ####  declare alter for later  ######
-
+if [ ! -e report.txt ]; then
+    touch report.txt
+    echo "     Student Grade Report" >> report.txt
+    echo "**********************************" >> report.txt
+    echo "Name/Quiz/Homework/Midterm/Final/score/grade" >> report.txt
+fi
 
 if [ $# -ne  2 ]; then
     echo "Usage " $0 "Command1 Command2"  ### Check for 2 arguments ####
