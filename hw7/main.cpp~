@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include "employee.h"
+#include <fstream>
+#include <iostream>
+#include <string>
+using namespace std;
+
+
+int main(int argc, char *argv[])
+{
+  EmployeeSearch(argv[1]);
+
+  
+}
